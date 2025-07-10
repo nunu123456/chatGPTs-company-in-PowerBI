@@ -4,7 +4,7 @@ Power BI-Demo mit synthetisch generierten Verkaufsdaten eines fiktiven KI-Untern
 
 #  NeuroNova GPTech – Power BI Demo Report
 
-Willkommen beim Power BI-Demoprojekt von **NeuroNova GPTech**, einem fiktiven KI-Unternehmen mit kreativen Produkten wie *ToastGPT*, *BrewBot* und *EchoMind*. Das Projekt zeigt, wie man synthetisch generierte Daten (via ChatGPT) in einem modernen Power BI Dashboard visualisieren kann.
+Willkommen beim Power BI-Demoprojekt von **NeuroNova GPTech**, einem fiktiven KI-Unternehmen mit kreativen Produkten wie *ToastGPT*, *BrewBot* und *EchoMind*. Das Projekt zeigt, wie man synthetisch generierte Daten (via ChatGPT) in einem modernen Power BI Dashboard visualisieren kann. Produktnamen, Logo, Kampagnennamen sowie Farbschema des Berichts sind von ChatGPT erfunden.
 
 ---
 
