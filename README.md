@@ -62,7 +62,7 @@ Umsatz = SUMX(verkaeufe, verkaeufe[Menge] * RELATED(produkte[Preis (€)]))
 Umsatz YTD = TOTALYTD([Umsatz], Kalender[Datum])
 
 Umsatz Vorjahr = CALCULATE([Umsatz], SAMEPERIODLASTYEAR(Kalender[Datum]))
-
+´´´
 ---
 
 ## 📄 License
