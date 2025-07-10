@@ -19,6 +19,13 @@ Willkommen beim Power BI-Demoprojekt von **NeuroNova GPTech**, einem fiktiven KI
 
 ---
 
+## 📸 Vorschau
+
+![Screenshot 1](neuronova_screenshot1.png)  
+![Screenshot_2](NeuroNova_Logo.png)
+
+---
+
 ##  Dateien im Projektpaket
 
 - 'NeuroNova GPTech Dashboard.pbix' - Reportdatei
