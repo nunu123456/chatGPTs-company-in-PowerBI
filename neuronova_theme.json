@@ -1,0 +1,15 @@
+{
+    "name": "NeuroNova GPT Theme",
+    "dataColors": [
+        "#6A1B9A",
+        "#283593",
+        "#00838F",
+        "#43A047",
+        "#F9A825",
+        "#EF6C00",
+        "#B71C1C"
+    ],
+    "background": "#ffffff",
+    "foreground": "#000000",
+    "tableAccent": "#6A1B9A"
+}
