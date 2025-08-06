@@ -15,11 +15,11 @@ Willkommen beim Power BI-Demoprojekt von **NeuroNova GPTech**, einem fiktiven KI
 - Zeitintelligenz: YTD, Vorjahr, Monatsvergleiche
 - Regionale Analysen (Länder, Regionen, Kartenvisualisierung)
 - Kampagnenauswertung & Supportfälle
-- ✨ Farbschema (JSON) + 🖼 Logo für Branding
+- Farbschema (JSON) + Logo für Branding
 
 ---
 
-## 📸 Vorschau
+## Vorschau
 
 ![Screenshot 1](neuronova_screenshot1.png)  
 ![Screenshot_2](NeuroNova_Logo.png)
@@ -67,14 +67,14 @@ Umsatz Vorjahr = CALCULATE([Umsatz], SAMEPERIODLASTYEAR(Kalender[Datum]))
 
 ---
 
-## 📄 License
+## License
 
 This project is based on publicly available survey data. All visualizations and analyses were independently created. The rights to the raw data remain with Stack Overflow.  
 This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🤝 Contact
+## Contact
 
 For questions or feedback:  
 **Markus Elstermann**  
